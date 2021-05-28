@@ -1,7 +1,6 @@
 # TS-Aggregator
 
-Source Code for Multi-armed Bandit Algorithms on System-on-Chip: Go Frequentist or Bayesian?
-
+Multi-armed Bandit Algorithms on System-on-Chip: Go Frequentist or Bayesian?
 Authors: S. V. Sai Santosh and Sumit J. Darak
 
 - To replicate the various MAB algorithms, synthesize the .cpp files in their respective folders inside the 'Hardware' folder using Vivado HLS with the following parameters:
